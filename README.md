@@ -65,7 +65,7 @@ Thesis: *T-BOT: The Navigation Robot for Optimized Multi-Agent Exploration* (110
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/beniamino-squitieri](https://www.linkedin.com/in/beniamino-squitieri-b25784233/?originalSubdomain=it)/)  
+- 💼 [LinkedIn]([[https://www.linkedin.com/in/beniamino-squitieri](https://www.linkedin.com/in/beniamino-squitieri-b25784233/?originalSubdomain=it)/](https://www.linkedin.com/in/beniamino-squitieri-b25784233/?originalSubdomain=it))  
 - 📧 bennibeniamino@gmail.com  
 
 ---
