@@ -57,16 +57,10 @@
 ## 📚 Education
 
 🎓 M.Sc. in Automation and Control Systems – Università degli Studi di Salerno  
-Thesis: *T-BOT: The Navigation Robot for Optimized Multi-Agent Exploration* (110/110)
+Thesis: *T-BOT: The Navigation Robot for Optimized Multi-Agent Exploration
 
-🎓 B.Sc. in Computer Engineering – Università degli Studi di Salerno (110/110 cum laude)
-
----
-
-## 📬 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/beniamino-squitieri/)  
-- 📧 bennibeniamino@gmail.com  
+🎓 B.Sc. in Computer Engineering – Università degli Studi di Salerno 
+Thesis: *Monitor4U
 
 ---
 
