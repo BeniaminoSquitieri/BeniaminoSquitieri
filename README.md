@@ -34,17 +34,17 @@
 - 🧭 [T-BOT](#) – Topological Navigation for Multi-Robot Exploration  
   ⤷ Autonomous mobile fleet managemenT + ROS2 + TurtleBot4 · Voronoi Diagrams · Chinese Postman Problem · Dynamic task allocation
 
-- 🦾 [Task space Impedance Control for Panda Robot](#)  
+- 🦾 [Low-level Cartesian Impedance Control on Franka Emika Panda](#)  
   ⤷ ROS2 + MoveIt2 · Task-space control · Collision-aware trajectory tracking, Gazebo Ignition
 
 - 🚧 [Indoor Navigation on TurtleBot4](#)  
   ⤷ ROS2 · Nav2 stack extension · Vision-based sign recognition · Real-world validation
   
-  - 🔍 [Mechanical Stabilization System Control Project](#)  
+- 🔍 [Mechanical Stabilization System Control Project](#)
   ⤷ Linear and non linear controller applied to mechanical pendulum 
 
-  - 🔍 [Design and Implementation of State-Feedback Controllers for DC Motor Regulation](#)  
-  ⤷ Advanced controller in embedded systems
+- 🔍 [Design and Implementation of State-Feedback Controllers for DC Motor Regulation](#)  
+⤷ Advanced controller in embedded systems
 
 - 🔍 [Data-Driven Control Algorithms](#)  
   ⤷ FOC/IOC techniques · Validated on the Robotarium simulator
