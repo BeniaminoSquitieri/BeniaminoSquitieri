@@ -17,7 +17,7 @@
 - 🧭 **Motion Control** (State Feedback, LQR, task space controller
 - 🧠 **AI for Robotics** (machine learning, perception, computer vision)
 - 🤝 **Multi-agent exploration**, task allocation, coordination, mullti-agent-coordination
-- 🧪 **Simulation** (Gazebo, Ignition, Robotarium)
+- 🧪 **Simulation** (Gazebo  Ignition, Robotarium)
 
 ---
 
