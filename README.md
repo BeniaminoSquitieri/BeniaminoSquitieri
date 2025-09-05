@@ -8,7 +8,7 @@
 ---
 ## Actual work
 
-🎓 Currently a **Research Fellow at Istituto Italiano di Tecnologia (IIT)**, working on the navigation for the humanoid robot **R1**.  
+🎓 Currently a **Research Fellow at Istituto Italiano di Tecnologia (IIT)**, working with the humanoid robot **R1**.  
 ---
 
 ## 🧠 Interests & Technical Focus
