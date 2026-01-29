@@ -1,68 +1,100 @@
- # BeniaminoSquitieri
+# BeniaminoSquitieri
 
-# 👋 Hi, I'm Beniamino Squitieri
+## 👋 Hi, I'm Beniamino Squitieri
 
-🤖 Robotics Engineer with a strong focus on **autonomous navigation**, **control systems**, and **robot perception**.  
-🚀 I'm passionate about building intelligent robotic systems that can explore, adapt, and make decisions in real-world environments.
+🤖 Robotics Engineer working on **autonomous robotic systems**, with a strong focus on **control**, **navigation**, and **embodied intelligence**.
+
+🚀 I design and deploy robots that must operate in **real environments**, where perception is incomplete, contact is unavoidable, and robustness matters more than clean demos.
 
 ---
-## Actual work
 
-🎓 Currently a **Research Fellow at Istituto Italiano di Tecnologia (IIT)**, working with the humanoid robot **R1**.  
+## 🏢 Current Position
+
+🎓 **Research Fellow at Istituto Italiano di Tecnologia (IIT)**
+🤖 Working on the **R1 humanoid robot**, contributing to autonomy pipelines that span perception, planning, and control, with experimental validation on physical hardware.
+
+My work involves **system-level integration** and real-world testing, rather than isolated algorithmic components.
+
 ---
 
-## 🧠 Interests & Technical Focus
+## 🧠 Research Interests
 
-- 🛰️ **Autonomous Navigation** (ROS2, SLAM, topological mapping, planning)
-- 🧭 **Motion Control** (State Feedback, LQR, task space controller
-- 🧠 **AI for Robotics** (machine learning, perception, computer vision)
-- 🤝 **Multi-agent exploration**, task allocation, coordination, mullti-agent-coordination
-- 🧪 **Simulation** (Gazebo  Ignition, Robotarium)
+My research interests sit at the intersection of **Vision-Language-Action models**, **tactile sensing**, and **adaptive control for contact-rich manipulation**.
+
+### Core Research Direction
+
+* **Adaptive robotic manipulation in unstructured environments**
+  Learning how robots can remain reliable when contact dynamics, friction, and object poses deviate from demonstrations.
+
+* **Vision-Language-Action models beyond open-loop execution**
+  Studying how foundation policies such as diffusion- and flow-based VLAs can be augmented, rather than retrained, to improve robustness during physical interaction.
+
+* **Tactile-guided residual reinforcement learning**
+  Developing small, bounded RL correction modules that leverage tactile and proprioceptive feedback to compensate for misalignment, slip, and jamming during contact, while keeping high-level VLA policies unchanged.
+
+* **Embodied and closed-loop learning**
+  Focusing on learning mechanisms that exploit physical interaction, instead of relying solely on offline imitation, to achieve safer and more transferable robot behavior.
+
+* **Neuromorphic and efficient sensing-action pipelines**
+  Exploring spiking and event-based approaches for low-latency, energy-efficient feedback in active exploration and manipulation.
+
+This direction is inspired by my PhD proposal on *Adaptive Vision-Language-Action Models through Tactile-Guided Residual Reinforcement Learning for Contact-Rich Manipulation*.
+
+---
+
+## 🧠 Technical Interests & Engineering Focus
+
+* 🛰️ **Autonomous Navigation**
+  ROS2, SLAM, metric and topological mapping, global and local planning, Nav2, real-world deployment
+
+* 🧭 **Motion Planning and Control**
+  State feedback control, LQR, MPC, task-space and impedance-style control
+
+* 🧠 **Robot Learning**
+  Reinforcement learning, learning-based perception, policy adaptation and residual learning
+
+* 🤝 **Multi-agent and multi-robot systems**
+  Exploration, task allocation, coordination, decentralized strategies
+
+* 🧪 **Simulation and sim-to-real validation**
+  Gazebo Ignition, Robotarium, ManiSkill, Isaac Gym
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Main Languages**: C++, Python, MATLAB, C, Java, XML , CMake
-- **Frameworks and Tools**: ROS2, YARP, Git, Simulink, Stateflow, Simulink, RViz, Nav2 stack
-- **Simulation**: Gazebo, Ignition
-- **Control**: LQR, MPC, FOC, IOC, CLIK , PLC 
+* **Languages**: C++, Python, MATLAB, C, Java, XML, CMake
+* **Frameworks & Tools**: ROS2, YARP, Git, Simulink, Stateflow, RViz, Nav2
+* **Simulation**: Gazebo, Ignition, Robotarium, ManiSkill, Isaac Gym
+* **Control**: LQR, MPC, FOC, IOC, CLIK, PLC
+
 ---
 
-## 🔍 Featured Projects
+## 🔍 Selected Projects
 
-- 🧭 [T-BOT](#) – Topological Navigation for Multi-Robot Exploration  
-  ⤷ Autonomous mobile fleet managemenT + ROS2 + TurtleBot4 · Voronoi Diagrams · Chinese Postman Problem · Dynamic task allocation
+* 🧭 **T-BOT – Topological Navigation for Multi-Robot Exploration**
+  Autonomous fleet management with ROS2 and TurtleBot4, based on Voronoi partitioning, Chinese Postman Problem, and dynamic task allocation.
 
-- 🦾 [Low-level Cartesian Impedance Control on Franka Emika Panda](#)  
-  ⤷ ROS2 + MoveIt2 · Task-space control · Collision-aware trajectory tracking, Gazebo Ignition
+* 🦾 **Cartesian Impedance Control on Franka Emika Panda**
+  Task-space control with collision-aware trajectory tracking using ROS2 and MoveIt2, validated in Gazebo Ignition.
 
-- 🚧 [Indoor Navigation on TurtleBot4](#)  
-  ⤷ ROS2 · Nav2 stack extension · Vision-based sign recognition · Real-world validation
-  
-- 🔍 [Mechanical Stabilization System Control Project](#)
-  ⤷ Linear and non linear controller applied to mechanical pendulum 
+* 🚧 **Indoor Autonomous Navigation on TurtleBot4**
+  Extended Nav2 pipeline with vision-based sign recognition and real-world experiments.
 
-- 🔍 [Design and Implementation of State-Feedback Controllers for DC Motor Regulation](#)  
-⤷ Advanced controller in embedded systems
+* 🔍 **Mechanical and Electromechanical Control Projects**
+  Linear and nonlinear controllers for underactuated systems and DC motor regulation.
 
-- 🔍 [Data-Driven Control Algorithms](#)  
-  ⤷ FOC/IOC techniques · Validated on the Robotarium simulator
-  
-- 🔥 [Fire & Smoke Detection](#)  
-  ⤷ 3D CNN · CNN, Google Colab · Robust vision system for hazard detection
+* 🔥 **Fire and Smoke Detection**
+  3D CNN-based perception system for hazard detection in real environments.
 
 ---
 
 ## 📚 Education
 
-🎓 M.Sc. in Automation and Control Systems – Università degli Studi di Salerno  
-Thesis: *T-BOT: The Navigation Robot for Optimized Multi-Agent Exploration
+🎓 **M.Sc. in Automation and Control Systems Engineering** – Università degli Studi di Salerno
+Thesis: *T-BOT: The Navigation Robot for Optimized Multi-Agent Exploration*
 
-🎓 B.Sc. in Computer Engineering – Università degli Studi di Salerno 
-Thesis: *Monitor4U
+🎓 **B.Sc. in Computer Engineering** – Università degli Studi di Salerno
+Thesis: *Monitor4U*
 
 ---
-
-> 🚀 *Always curious, always building. Looking to collaborate on autonomous systems, research, and innovation in robotics.*
-
